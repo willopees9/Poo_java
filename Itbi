@@ -1,0 +1,13 @@
+
+
+import java.util.Scanner;
+public class Itbi{
+  public static void main (String [] args){
+  Scanner entrada = new Scanner(String.in);
+  System.ou.print("Entre com o valor da transação: ");
+  int transacao = entrada.nexInt();
+  int valor_venal = entrada.nextInt();
+  System.out.print("Entre com imposto:");
+  int imposto = entrada.nextInt();
+  maior_valor = imposto = maior valor * percentual / 100}
+  }
